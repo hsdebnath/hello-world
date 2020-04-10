@@ -1,2 +1,2 @@
 # hello-world
-github setup project
+github project making tutorial project
